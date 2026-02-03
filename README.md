@@ -88,7 +88,7 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 
 <div align="center">
 	<img src="./profile/stats.svg" alt="GitHub stats" />
-	<img src="./profile/streak.svg" alt="GitHub streak" />
+	<img src="https://streak-stats.demolab.com/?user=riyanimam&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak" />
 </div>
 
 <div align="center">
