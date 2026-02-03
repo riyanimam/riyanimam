@@ -115,7 +115,7 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 
 <div align="center">
 <a href="https://github.com/riyanimam/georgia-legislation-webcrawler">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=georgia-legislation-webcrawler&theme=tokyonight&hide_border=true&show_owner=true" alt="Georgia Legislation Webcrawler" />
+<img src="./profile/featured-project.svg" alt="Georgia Legislation Webcrawler" />
 </a>
 </div>
 
