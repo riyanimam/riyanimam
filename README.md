@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-A techie passionate about building delightful products and scalable systems. I enjoy exploring AI, data pipelines, and performance optimization.
+AWS & Backend Developer passionate about building scalable cloud solutions and automation tools. I specialize in serverless architecture, infrastructure-as-code, and event-driven systems. With expertise in Python, Go, and TypeScript, I craft high-performance applications and intelligent deployment pipelines that eliminate manual overhead.
 
 ---
 
@@ -31,26 +31,54 @@ A techie passionate about building delightful products and scalable systems. I e
 	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" alt="Laptop" />
 </div>
 
-- 🔭 Building modern web apps and automation tools
-- 🌱 Exploring AI, data pipelines, and performance optimization
-- 🤝 Open to collaborations and community projects
+- ☁️ Building serverless applications on AWS Lambda with Go, Python, and TypeScript
+- 🏗️ Designing event-driven infrastructure using Terraform and GitHub Actions
+- 🤖 Creating automation tools and bots for workflow optimization
+- 📊 Extracting and processing data from web sources with elegant solutions
+- 🔄 Implementing CI/CD pipelines and infrastructure-as-code best practices
 
 ---
 
 ## 🛠️ My Favorite Tools
 
+**Languages & Runtimes**
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=ts,js,react,python,nodejs,html,css,tailwind,vite,git,github,postgres,figma&perline=7" alt="Tech stack icons" />
+	<img src="https://skillicons.dev/icons?i=typescript,python,go,nodejs,html,css,hcl&perline=7" alt="Languages" />
+</div>
+
+**Frontend & Styling**
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=react,tailwind,vite&perline=3" alt="Frontend" />
+</div>
+
+**Cloud & Infrastructure**
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=aws,terraform,docker&perline=3" alt="Cloud" />
+</div>
+
+**Developer Tools & DevOps**
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=github,git,bash,postgres&perline=4" alt="DevOps" />
 </div>
 
 <table align="center">
 	<tr>
-		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" /><br />HTML</td>
-		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS" /><br />CSS</td>
+		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /><br />TypeScript</td>
+		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" /><br />Python</td>
+		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" alt="Go" /><br />Go</td>
+		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /><br />Node.js</td>
+	</tr>
+	<tr>
+		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" /><br />React</td>
 		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind" /><br />Tailwind</td>
 		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" alt="Vite" /><br />Vite</td>
-		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" /><br />Git</td>
-		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma" /><br />Figma</td>
+		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" /><br />AWS</td>
+	</tr>
+	<tr>
+		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" alt="Terraform" /><br />Terraform</td>
+		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" /><br />Docker</td>
+		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub" /><br />GitHub</td>
+		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" /><br />PostgreSQL</td>
 	</tr>
 </table>
 
@@ -59,12 +87,12 @@ A techie passionate about building delightful products and scalable systems. I e
 ## 📊 GitHub Stats and Activity
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=riyanimam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180" alt="GitHub stats" />
-	<img src="https://streak-stats.demolab.com/?user=riyanimam&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak" />
+	<img src="./profile/stats.svg" alt="GitHub stats" />
+	<img src="./profile/streak.svg" alt="GitHub streak" />
 </div>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanimam&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10" height="180" alt="Top languages" />
+	<img src="./profile/top-langs.svg" alt="Top languages" />
 </div>
 
 <div align="center">
