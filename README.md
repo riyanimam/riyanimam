@@ -148,7 +148,7 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 
 > 📦 4.4 kB Used in GitHub's Storage 
  > 
-> 🏆 193 Contributions in the Year 2026
+> 🏆 183 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -159,21 +159,21 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-🌆 Daytime                97 commits          ███████████░░░░░░░░░░░░░░   42.54 % 
-🌃 Evening                116 commits         █████████████░░░░░░░░░░░░   50.88 % 
+🌞 Morning                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+🌆 Daytime                99 commits          ███████████░░░░░░░░░░░░░░   43.04 % 
+🌃 Evening                116 commits         █████████████░░░░░░░░░░░░   50.43 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Tuesday                  91 commits          ██████████░░░░░░░░░░░░░░░   39.91 % 
-Wednesday                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Thursday                 51 commits          ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Friday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Tuesday                  93 commits          ██████████░░░░░░░░░░░░░░░   40.43 % 
+Wednesday                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Thursday                 51 commits          ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Friday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 
@@ -212,7 +212,7 @@ HCL                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/riyanimam/riyanimam/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2026 19:28:58 UTC
+ Last Updated on 03/02/2026 19:43:04 UTC
 <!--END_SECTION:waka-->
 
 ---
