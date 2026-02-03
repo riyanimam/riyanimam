@@ -95,7 +95,7 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 </div>
 
 <div align="center">
-<img src="https://github.com/riyanimam/riyanimam/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="./profile/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
