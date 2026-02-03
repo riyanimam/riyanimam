@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="140" alt="Waving hello" />
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="80" alt="Waving hand" />
 	<h1>Hey, I’m Riyan! ✨</h1>
 	<p><b>Builder • Learner • Problem Solver</b></p>
 	<p>
@@ -13,6 +13,10 @@
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-stack+builder;Open-source+enthusiast;Always+curious+%26+learning" alt="Typing intro" />
 </div>
 
+<div align="center">
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -24,7 +28,7 @@ A techie passionate about building delightful products and scalable systems. I e
 ## ✨ Highlights
 
 <div align="center">
-	<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" alt="Rocket launch" />
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" alt="Laptop" />
 </div>
 
 - 🔭 Building modern web apps and automation tools
@@ -58,22 +62,6 @@ A techie passionate about building delightful products and scalable systems. I e
 	</tr>
 </table>
 
-<div align="center">
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-	<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-	<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-	<img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</div>
-
 ---
 
 ## 📊 GitHub Stats and Activity
@@ -89,6 +77,28 @@ A techie passionate about building delightful products and scalable systems. I e
 
 <div align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyanimam&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</div>
+
+<div align="center">
+	<img src="https://github.com/riyanimam/riyanimam/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📈 Detailed GitHub Metrics
+
+<div align="center">
+	<img src="https://metrics.lecoq.io/riyanimam?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&notable=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York&config.theme=dark" alt="Metrics" />
+</div>
+
+---
+
+## 🏅 Holopin Badges
+
+<div align="center">
+	<a href="https://holopin.io/@riyanimam">
+		<img src="https://holopin.me/riyanimam" alt="Holopin badges" />
+	</a>
 </div>
 
 ---
@@ -126,7 +136,19 @@ A techie passionate about building delightful products and scalable systems. I e
 </div>
 
 ---
+## ⚡ Recent Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📈 Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 ## 🧭 What I’m Up To
 
 - 🔍 Researching smarter data collection + analysis
@@ -134,11 +156,32 @@ A techie passionate about building delightful products and scalable systems. I e
 - 📚 Learning something new every week
 
 ---
+## 😄 Dev Joke of the Day
 
+<div align="center">
+	<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</div>
+
+---
+
+## 🎭 Random Dev Meme
+
+<div align="center">
+	<img src="https://random-memer.herokuapp.com/" width="512px" alt="Meme" />
+</div>
+
+---
 ## 📫 Let’s Connect
+
+<div align="center">
+	<img src="https://img.shields.io/github/followers/riyanimam?label=Followers&style=social" alt="GitHub Badge" />
+	<img src="https://img.shields.io/github/stars/riyanimam?label=Stars&style=social" alt="Stars Badge" />
+</div>
+
+<br />
 
 If you want to collaborate, brainstorm, or just say hi, feel free to reach out!
 
 <div align="center">
-	<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" alt="Sparkles" />
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="80" alt="Handshake" />
 </div>
