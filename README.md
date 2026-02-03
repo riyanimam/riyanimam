@@ -19,7 +19,7 @@
 
 ---
 
-## ��� About Me
+## 🚀 About Me
 
 AWS & Backend Developer passionate about building scalable cloud solutions and automation tools. I specialize in serverless architecture, infrastructure-as-code, and event-driven systems. With expertise in Python, Go, and TypeScript, I craft high-performance applications and intelligent deployment pipelines that eliminate manual overhead.
 
@@ -28,15 +28,15 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 ## ✨ What I Do
 
 - ☁️ Build serverless applications on AWS Lambda with Go, Python, and TypeScript
-- ���️ Design event-driven infrastructure using Terraform and GitHub Actions
-- ��� Create automation tools and bots for workflow optimization
-- ��� Extract and process data from web sources with elegant solutions
-- ��� Implement CI/CD pipelines and infrastructure-as-code best practices
-- ��� Write comprehensive documentation for every project
+- 🏗️ Design event-driven infrastructure using Terraform and GitHub Actions
+- 🤖 Create automation tools and bots for workflow optimization
+- 📊 Extract and process data from web sources with elegant solutions
+- 🔄 Implement CI/CD pipelines and infrastructure-as-code best practices
+- 📚 Write comprehensive documentation for every project
 
 ---
 
-## ���️ Tech Stack
+## 🛠️ Tech Stack
 
 <table align="center">
 <tr>
@@ -79,7 +79,7 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 
 ---
 
-## ��� GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=riyanimam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180" alt="GitHub stats" />
@@ -100,7 +100,7 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 
 ---
 
-## ��� Achievements
+## 🏆 Achievements
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=riyanimam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub trophies" />
@@ -108,7 +108,7 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 
 ---
 
-## ��� Featured Projects
+## 📌 Featured Projects
 
 <div align="center">
 <a href="https://github.com/riyanimam/georgia-legislation-webcrawler">
@@ -118,21 +118,21 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 
 ---
 
-## ��� Coding Activity
+## 📈 Coding Activity
 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ��� Merged PR [#3](https://github.com/riyanimam/riyanimam/pull/3) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-2. ��� Opened PR [#3](https://github.com/riyanimam/riyanimam/pull/3) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+1. 🎉 Merged PR [#3](https://github.com/riyanimam/riyanimam/pull/3) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+2. 💪 Opened PR [#3](https://github.com/riyanimam/riyanimam/pull/3) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
 3. ℹ️ Assigned PR [#3](https://github.com/riyanimam/riyanimam/pull/3) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-4. ��� Merged PR [#2](https://github.com/riyanimam/riyanimam/pull/2) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-5. ��� Opened PR [#2](https://github.com/riyanimam/riyanimam/pull/2) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+4. 🎉 Merged PR [#2](https://github.com/riyanimam/riyanimam/pull/2) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+5. 💪 Opened PR [#2](https://github.com/riyanimam/riyanimam/pull/2) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
 6. ℹ️ Assigned PR [#2](https://github.com/riyanimam/riyanimam/pull/2) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-7. ��� Merged PR [#1](https://github.com/riyanimam/riyanimam/pull/1) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-8. ��� Opened PR [#1](https://github.com/riyanimam/riyanimam/pull/1) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+7. 🎉 Merged PR [#1](https://github.com/riyanimam/riyanimam/pull/1) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+8. 💪 Opened PR [#1](https://github.com/riyanimam/riyanimam/pull/1) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
 9. ℹ️ Assigned PR [#1](https://github.com/riyanimam/riyanimam/pull/1) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-10. ��� Commented on [#1](https://github.com/riyanimam/common-repo-assets/pull/1#issuecomment-3787398718) in [riyanimam/common-repo-assets](https://github.com/riyanimam/common-repo-assets)
+10. 🗣 Commented on [#1](https://github.com/riyanimam/common-repo-assets/pull/1#issuecomment-3787398718) in [riyanimam/common-repo-assets](https://github.com/riyanimam/common-repo-assets)
 <!--END_SECTION:activity-->
 
 ### WakaTime Stats
@@ -142,24 +142,24 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511.77%20thousand%20lines%20of%20code-blue?style=flat)
 
-**��� My GitHub Data** 
+**🐱 My GitHub Data** 
 
-> ��� 4.4 kB Used in GitHub's Storage 
-> ��� 183 Contributions in the Year 2026
-> ��� Opted to Hire
-> ��� 14 Public Repositories 
-> ��� 4 Private Repositories 
+> 📦 4.4 kB Used in GitHub's Storage 
+> 🏆 183 Contributions in the Year 2026
+> 💼 Opted to Hire
+> 📜 14 Public Repositories 
+> 🔑 4 Private Repositories 
 
-**I'm a Night ���** 
+**I'm a Night 🦉** 
 
 ```text
-��� Morning                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-��� Daytime                90 commits          ██████████░░░░░░░░░░░░░░░   40.91 % 
-��� Evening                116 commits         █████████████░░░░░░░░░░░░   52.73 % 
-��� Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+🌆 Daytime                90 commits          ██████████░░░░░░░░░░░░░░░   40.91 % 
+🌃 Evening                116 commits         █████████████░░░░░░░░░░░░   52.73 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
-��� **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
@@ -171,21 +171,21 @@ Saturday                 16 commits          ██░░░░░░░░░�
 Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
-��� **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
-���︎ Time Zone: America/New_York
+🕑︎ Time Zone: America/New_York
 
-��� Programming Languages: 
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-��� Editors: 
+🔥 Editors: 
 No Activity Tracked This Week
 
-���‍��� Projects: 
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-��� Operating System: 
+💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -204,16 +204,16 @@ Last Updated on 03/02/2026 16:17:45 UTC
 
 ---
 
-## ��� Current Focus
+## 🎯 Current Focus
 
-- ��� Researching advanced data pipelines and streaming architectures
-- ���️ Building next-generation cloud automation tools
-- ��� Creating comprehensive infrastructure templates
-- ��� Exploring emerging serverless patterns
+- 🔍 Researching advanced data pipelines and streaming architectures
+- 🛠️ Building next-generation cloud automation tools
+- 📚 Creating comprehensive infrastructure templates
+- 🚀 Exploring emerging serverless patterns
 
 ---
 
-## ��� Daily Dev Inspiration
+## 😄 Daily Dev Inspiration
 
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Daily Dev Joke" />
@@ -221,7 +221,7 @@ Last Updated on 03/02/2026 16:17:45 UTC
 
 ---
 
-## ��� Profile Metrics
+## 📊 Profile Metrics
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=riyanimam&style=for-the-badge&color=7C3AED" alt="Profile views" />
@@ -231,7 +231,7 @@ Last Updated on 03/02/2026 16:17:45 UTC
 
 ---
 
-## ��� Let's Connect & Collaborate
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 <p>I'm always interested in collaborating on cloud projects, automation tools, and open-source initiatives.</p>
