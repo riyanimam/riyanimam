@@ -140,38 +140,44 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511.77%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.4 kB Used in GitHub's Storage 
-> 🏆 183 Contributions in the Year 2026
+ > 
+> 🏆 193 Contributions in the Year 2026
+ > 
 > 💼 Opted to Hire
+ > 
 > 📜 14 Public Repositories 
+ > 
 > 🔑 4 Private Repositories 
-
+ > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-🌆 Daytime                90 commits          ██████████░░░░░░░░░░░░░░░   40.91 % 
-🌃 Evening                116 commits         █████████████░░░░░░░░░░░░   52.73 % 
+🌞 Morning                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+🌆 Daytime                97 commits          ███████████░░░░░░░░░░░░░░   42.54 % 
+🌃 Evening                116 commits         █████████████░░░░░░░░░░░░   50.88 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Tuesday                  83 commits          █████████░░░░░░░░░░░░░░░░   37.73 % 
-Wednesday                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Thursday                 51 commits          ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Friday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Tuesday                  91 commits          ██████████░░░░░░░░░░░░░░░   39.91 % 
+Wednesday                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Thursday                 51 commits          ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Friday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
-**This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: America/New_York
@@ -199,7 +205,14 @@ PowerShell               1 repo              ██░░░░░░░░░�
 HCL                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
-Last Updated on 03/02/2026 16:17:45 UTC
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/riyanimam/riyanimam/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/02/2026 19:28:58 UTC
 <!--END_SECTION:waka-->
 
 ---
