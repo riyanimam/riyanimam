@@ -139,6 +139,16 @@ A techie passionate about building delightful products and scalable systems. I e
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/riyanimam/riyanimam/pull/3) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+2. 💪 Opened PR [#3](https://github.com/riyanimam/riyanimam/pull/3) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+3. ℹ️ Assigned PR [#3](https://github.com/riyanimam/riyanimam/pull/3) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+4. 🎉 Merged PR [#2](https://github.com/riyanimam/riyanimam/pull/2) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+5. 💪 Opened PR [#2](https://github.com/riyanimam/riyanimam/pull/2) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+6. ℹ️ Assigned PR [#2](https://github.com/riyanimam/riyanimam/pull/2) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+7. 🎉 Merged PR [#1](https://github.com/riyanimam/riyanimam/pull/1) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+8. 💪 Opened PR [#1](https://github.com/riyanimam/riyanimam/pull/1) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+9. ℹ️ Assigned PR [#1](https://github.com/riyanimam/riyanimam/pull/1) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
+10. 🗣 Commented on [#1](https://github.com/riyanimam/common-repo-assets/pull/1#issuecomment-3787398718) in [riyanimam/common-repo-assets](https://github.com/riyanimam/common-repo-assets)
 <!--END_SECTION:activity-->
 
 ---
