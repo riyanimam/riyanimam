@@ -59,12 +59,12 @@ A techie passionate about building delightful products and scalable systems. I e
 ## 📊 GitHub Stats and Activity
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=riyanimam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180" alt="GitHub stats" />
-	<img src="https://streak-stats.demolab.com/?user=riyanimam&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak" />
+	<img src="./profile/stats.svg" alt="GitHub stats" />
+	<img src="./profile/streak.svg" alt="GitHub streak" />
 </div>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanimam&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10" height="180" alt="Top languages" />
+	<img src="./profile/top-langs.svg" alt="Top languages" />
 </div>
 
 <div align="center">
