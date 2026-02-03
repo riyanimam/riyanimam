@@ -85,25 +85,7 @@ A techie passionate about building delightful products and scalable systems. I e
 
 ---
 
-## 📈 Detailed GitHub Metrics
-
-<div align="center">
-	<img src="https://metrics.lecoq.io/riyanimam?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&notable=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York&config.theme=dark" alt="Metrics" />
-</div>
-
----
-
-## 🏅 Holopin Badges
-
-<div align="center">
-	<a href="https://holopin.io/@riyanimam">
-		<img src="https://holopin.me/riyanimam" alt="Holopin badges" />
-	</a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=riyanimam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
@@ -243,10 +225,10 @@ HCL                      1 repo              ██░░░░░░░░░�
 
 ---
 
-## 🎭 Random Dev Meme
+## 🎭 Programming Humor
 
 <div align="center">
-	<img src="https://random-memer.herokuapp.com/" width="512px" alt="Meme" />
+	<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qLayout=horizontal" alt="Programming Humor" />
 </div>
 
 ---
