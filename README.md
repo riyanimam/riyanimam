@@ -45,14 +45,6 @@ A techie passionate about building delightful products and scalable systems. I e
 
 <table align="center">
 	<tr>
-		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" /><br />React</td>
-		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" /><br />Python</td>
-		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br />JavaScript</td>
-		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /><br />TypeScript</td>
-		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /><br />Node.js</td>
-		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" /><br />Postgres</td>
-	</tr>
-	<tr>
 		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" /><br />HTML</td>
 		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS" /><br />CSS</td>
 		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind" /><br />Tailwind</td>
@@ -67,16 +59,16 @@ A techie passionate about building delightful products and scalable systems. I e
 ## 📊 GitHub Stats and Activity
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=riyanimam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-	<img src="https://streak-stats.demolab.com/?user=riyanimam&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+	<img src="https://github-readme-stats.vercel.app/api?username=riyanimam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180" alt="GitHub stats" />
+	<img src="https://streak-stats.demolab.com/?user=riyanimam&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak" />
 </div>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanimam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanimam&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10" height="180" alt="Top languages" />
 </div>
 
 <div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyanimam&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyanimam&theme=tokyo-night&hide_border=true&radius=16" alt="Contribution graph" />
 </div>
 
 <div align="center">
@@ -85,28 +77,10 @@ A techie passionate about building delightful products and scalable systems. I e
 
 ---
 
-## 📈 Detailed GitHub Metrics
-
-<div align="center">
-	<img src="https://metrics.lecoq.io/riyanimam?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&notable=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York&config.theme=dark" alt="Metrics" />
-</div>
-
----
-
-## 🏅 Holopin Badges
-
-<div align="center">
-	<a href="https://holopin.io/@riyanimam">
-		<img src="https://holopin.me/riyanimam" alt="Holopin badges" />
-	</a>
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=riyanimam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+	<img src="https://github-profile-trophy.vercel.app/?username=riyanimam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub trophies" />
 </div>
 
 ---
@@ -131,7 +105,7 @@ A techie passionate about building delightful products and scalable systems. I e
 
 <div align="center">
 	<a href="https://github.com/riyanimam/georgia-legislation-webcrawler">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=georgia-legislation-webcrawler&theme=tokyonight&hide_border=true" alt="Featured project" />
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=georgia-legislation-webcrawler&theme=tokyonight&hide_border=true&show_owner=true" alt="Featured project" />
 	</a>
 </div>
 
@@ -243,13 +217,7 @@ HCL                      1 repo              ██░░░░░░░░░�
 
 ---
 
-## 🎭 Random Dev Meme
 
-<div align="center">
-	<img src="https://random-memer.herokuapp.com/" width="512px" alt="Meme" />
-</div>
-
----
 ## 📫 Let’s Connect
 
 <div align="center">
