@@ -19,9 +19,28 @@
 
 ---
 
+## 📋 Table of Contents
+
+- [🚀 About Me](#-about-me)
+- [✨ What I Do](#-what-i-do)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🚧 Currently Building](#-currently-building)
+- [📌 Featured Projects](#-featured-projects)
+- [📊 GitHub Analytics](#-github-analytics)
+- [🏆 Achievements & Certifications](#-achievements--certifications)
+- [📈 Coding Activity](#-coding-activity)
+- [🤝 Work With Me](#-work-with-me)
+- [💬 Let's Connect](#-lets-connect--collaborate)
+
+---
+
 ## 🚀 About Me
 
-AWS & Backend Developer passionate about building scalable cloud solutions and automation tools. I specialize in serverless architecture, infrastructure-as-code, and event-driven systems. With expertise in Python, Go, and TypeScript, I craft high-performance applications and intelligent deployment pipelines that eliminate manual overhead.
+AWS & Backend Developer passionate about building scalable cloud solutions and automation tools. I specialize in **serverless architecture**, **infrastructure-as-code**, and **event-driven systems**. 
+
+With deep expertise in **AWS services** (Lambda, DynamoDB, EventBridge, Step Functions, API Gateway, S3, CloudFormation), I architect and deploy production-grade applications that scale automatically and cost-effectively. My polyglot approach with **Python**, **Go**, and **TypeScript** enables me to choose the right tool for each challenge—whether it's high-performance Lambda functions, data processing pipelines, or modern web applications.
+
+I believe in **automation-first development**, comprehensive documentation, and building systems that are both powerful and maintainable.
 
 ---
 
@@ -79,6 +98,39 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 
 ---
 
+## 🚧 Currently Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏛️ Georgia Legislation Webcrawler
+**Real-time legislative tracking platform**
+- React + TypeScript frontend with Tailwind CSS
+- Python backend with LegiScan API integration
+- AI-powered bill summaries using local LLMs
+- Automated CI/CD with GitHub Actions
+
+[View Project →](https://github.com/riyanimam/georgia-legislation-webcrawler)
+
+</td>
+<td width="50%">
+
+### 🤖 Discord Bot Playground
+**Extensible Discord bot framework in Go**
+- Built with DiscordGo library
+- Essential commands (ping, help, info)
+- Server and user utilities
+- Perfect starter for bot development
+
+[View Project →](https://github.com/riyanimam/discord-bot-playground)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -103,10 +155,26 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
 <div align="center">
-<img src="./profile/achievements.svg" alt="GitHub achievements" />
+<img src="https://github-profile-trophy.vercel.app/?username=riyanimam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+### 📜 Certifications & Learning
+
+<div align="center">
+
+**🎓 Certifications**
+- ☁️ AWS Certified Cloud Practitioner
+- 🏗️ HashiCorp Certified: Terraform Associate
+
+**📚 Continuous Learning**
+- Advanced Serverless Patterns
+- Distributed Systems Design
+- Cloud Cost Optimization
+- Data Engineering Best Practices
+
 </div>
 
 ---
@@ -114,31 +182,74 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 ## 📌 Featured Projects
 
 <div align="center">
-<a href="https://github.com/riyanimam/georgia-legislation-webcrawler">
-<img src="./profile/featured-project.svg" alt="Georgia Legislation Webcrawler" />
-</a>
+
+### 🏛️ Georgia Legislation Webcrawler
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=georgia-legislation-webcrawler&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/georgia-legislation-webcrawler)
+
+**Real-time legislative tracking with AI-powered insights**
+
+🔧 Tech: React • TypeScript • Python • Tailwind CSS • Vite • GitHub Actions
+
+⭐ Features: LegiScan API Integration • Local LLM Summaries • PWA Support • Real-time Updates
+
+---
+
+### 🔔 Signal Bot Playground
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=signal-bot-playground&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/signal-bot-playground)
+
+**Messaging automation sandbox for Signal platform**
+
+🔧 Tech: Go • Signal API • Bot Framework
+
+⭐ Features: Message Responders • Automated Workflows • Testing Environment • Extensible Architecture
+
+---
+
+### 💼 Personal Portfolio Website
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=personal-site&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/personal-site)
+
+**Modern portfolio showcasing AWS & Backend expertise**
+
+🔧 Tech: TypeScript • HTML • GitHub Pages • GitHub Actions
+
+⭐ Features: Responsive Design • PWA Support • SEO Optimized • Accessibility First • Dark Mode
+
+🌐 [**Visit Live Site →**](https://riyanimam.github.io/personal-site/)
+
+---
+
+### 💰 AWS Cost Optimizer Lambda
+*In Development*
+
+**Automated AWS cost optimization using serverless architecture**
+
+🔧 Tech: Python • AWS Lambda • CloudWatch • EventBridge • Terraform
+
+⭐ Features: 
+- Real-time cost anomaly detection
+- Automated resource rightsizing recommendations
+- Idle resource identification and cleanup
+- Multi-account cost analysis
+- Slack/Email notifications for cost alerts
+- Custom optimization rules engine
+
+💡 *Designed to reduce AWS bills by 20-40% through intelligent automation*
+
 </div>
 
 ---
 
 ## 📈 Coding Activity
 
-### Recent Activity
+### 📍 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/riyanimam/riyanimam/pull/3) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-2. 💪 Opened PR [#3](https://github.com/riyanimam/riyanimam/pull/3) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-3. ℹ️ Assigned PR [#3](https://github.com/riyanimam/riyanimam/pull/3) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-4. 🎉 Merged PR [#2](https://github.com/riyanimam/riyanimam/pull/2) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-5. 💪 Opened PR [#2](https://github.com/riyanimam/riyanimam/pull/2) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-6. ℹ️ Assigned PR [#2](https://github.com/riyanimam/riyanimam/pull/2) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-7. 🎉 Merged PR [#1](https://github.com/riyanimam/riyanimam/pull/1) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-8. 💪 Opened PR [#1](https://github.com/riyanimam/riyanimam/pull/1) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-9. ℹ️ Assigned PR [#1](https://github.com/riyanimam/riyanimam/pull/1) in [riyanimam/riyanimam](https://github.com/riyanimam/riyanimam)
-10. 🗣 Commented on [#1](https://github.com/riyanimam/common-repo-assets/pull/1#issuecomment-3787398718) in [riyanimam/common-repo-assets](https://github.com/riyanimam/common-repo-assets)
+*Recent GitHub activity will be automatically updated here*
 <!--END_SECTION:activity-->
 
-### WakaTime Stats
+### ⏱️ WakaTime Stats
+
+> **Note:** WakaTime integration is available but currently not configured. To enable automatic coding stats, set up WakaTime with your GitHub Actions workflow.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
@@ -220,20 +331,43 @@ HCL                      1 repo              ██░░░░░░░░░�
 
 ---
 
+## 🤝 Work With Me
+
+<div align="center">
+
+### 💼 Open to Opportunities
+
+**🎯 What I'm Looking For:**
+- ☁️ Cloud Architecture & AWS Development Projects
+- 🤖 Automation & DevOps Engineering Roles
+- 🚀 Serverless & Event-Driven System Design
+- 📚 Open Source Collaboration
+- 💡 Technical Consulting & Advisory
+
+**📅 Availability:** Open to freelance projects and full-time opportunities
+
+**🌍 Location:** Remote-friendly • EST Timezone
+
+<a href="https://riyanimam.github.io/personal-site/">
+<img src="https://img.shields.io/badge/🌐_View_Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:riyanimam1997@gmail.com">
+<img src="https://img.shields.io/badge/📧_Schedule_a_Call-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/riyanimam">
+<img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 - 🔍 Researching advanced data pipelines and streaming architectures
 - 🛠️ Building next-generation cloud automation tools
 - 📚 Creating comprehensive infrastructure templates
 - 🚀 Exploring emerging serverless patterns
-
----
-
-## 😄 Daily Dev Inspiration
-
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Daily Dev Joke" />
-</div>
 
 ---
 
@@ -247,12 +381,38 @@ HCL                      1 repo              ██░░░░░░░░░�
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 💬 Let's Connect & Collaborate
 
 <div align="center">
-<p>I'm always interested in collaborating on cloud projects, automation tools, and open-source initiatives.</p>
-<p>Feel free to reach out via email, LinkedIn, or GitHub!</p>
+
+### 🌟 Why Work Together?
+
+> *"Building scalable solutions that solve real problems, one Lambda function at a time."*
+
+**I'm passionate about:**
+- 🤝 Collaborating on cloud-native projects
+- 🛠️ Contributing to open-source initiatives
+- 📖 Sharing knowledge through documentation and mentoring
+- 🚀 Building automation tools that empower developers
+
+### 📬 Get In Touch
+
+<a href="https://github.com/riyanimam">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/riyanimam">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:riyanimam1997@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="80" alt="Handshake" />
+
+**💡 Have a project idea? Let's discuss how we can bring it to life!**
+
 </div>
 
 <br>
