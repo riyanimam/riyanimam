@@ -181,10 +181,13 @@ I believe in **automation-first development**, comprehensive documentation, and 
 
 ## 📌 Featured Projects
 
+### 🏛️ Georgia Legislation Webcrawler
+
 <div align="center">
 
-### 🏛️ Georgia Legislation Webcrawler
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=georgia-legislation-webcrawler&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/georgia-legislation-webcrawler)
+
+</div>
 
 **Real-time legislative tracking with AI-powered insights**
 
@@ -195,7 +198,12 @@ I believe in **automation-first development**, comprehensive documentation, and 
 ---
 
 ### 🔔 Signal Bot Playground
+
+<div align="center">
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=signal-bot-playground&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/signal-bot-playground)
+
+</div>
 
 **Messaging automation sandbox for Signal platform**
 
@@ -206,7 +214,12 @@ I believe in **automation-first development**, comprehensive documentation, and 
 ---
 
 ### 💼 Personal Portfolio Website
+
+<div align="center">
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=personal-site&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/personal-site)
+
+</div>
 
 **Modern portfolio showcasing AWS & Backend expertise**
 
@@ -219,6 +232,7 @@ I believe in **automation-first development**, comprehensive documentation, and 
 ---
 
 ### 💰 AWS Cost Optimizer Lambda
+
 *In Development*
 
 **Automated AWS cost optimization using serverless architecture**
@@ -226,6 +240,7 @@ I believe in **automation-first development**, comprehensive documentation, and 
 🔧 Tech: Python • AWS Lambda • CloudWatch • EventBridge • Terraform
 
 ⭐ Features:
+
 - Real-time cost anomaly detection
 - Automated resource rightsizing recommendations
 - Idle resource identification and cleanup
@@ -234,8 +249,6 @@ I believe in **automation-first development**, comprehensive documentation, and 
 - Custom optimization rules engine
 
 💡 *Designed to reduce AWS bills by 20-40% through intelligent automation*
-
-</div>
 
 ---
 
