@@ -134,23 +134,17 @@ I believe in **automation-first development**, comprehensive documentation, and 
 ## 📊 GitHub Analytics
 
 <div align="center">
+
 <img src="./profile/stats.svg" alt="GitHub stats" />
-</div>
 
-<div align="center">
 <img src="./profile/streak-stats.svg" alt="GitHub streak" />
-</div>
 
-<div align="center">
 <img src="./profile/top-langs.svg" alt="Top languages" />
-</div>
 
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyanimam&theme=tokyo-night&hide_border=true&radius=16" alt="Contribution graph" />
-</div>
 
-<div align="center">
 <img src="./profile/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
 
 ---
