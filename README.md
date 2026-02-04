@@ -163,8 +163,6 @@ I believe in **automation-first development**, comprehensive documentation, and 
 
 ### 📜 Certifications & Learning
 
-<div align="center">
-
 **🎓 Certifications**
 
 - ☁️ AWS Certified Cloud Practitioner
@@ -177,7 +175,7 @@ I believe in **automation-first development**, comprehensive documentation, and 
 - Cloud Cost Optimization
 - Data Engineering Best Practices
 
-</div>
+---
 
 ---
 
@@ -383,8 +381,6 @@ Last Updated on 04/02/2026 01:55:50 UTC
 
 ## 💬 Let's Connect & Collaborate
 
-<div align="center">
-
 ### 🌟 Why Work Together?
 
 > *"Building scalable solutions that solve real problems, one Lambda function at a time."*
@@ -395,6 +391,8 @@ Last Updated on 04/02/2026 01:55:50 UTC
 - 🛠️ Contributing to open-source initiatives
 - 📖 Sharing knowledge through documentation and mentoring
 - 🚀 Building automation tools that empower developers
+
+<div align="center">
 
 ### 📬 Get In Touch
 
