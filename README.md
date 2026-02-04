@@ -145,13 +145,13 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511.77%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-540.62%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 4.4 kB Used in GitHub's Storage 
+> 📦 4.6 kB Used in GitHub's Storage 
  > 
-> 🏆 193 Contributions in the Year 2026
+> 🏆 201 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -159,24 +159,24 @@ AWS & Backend Developer passionate about building scalable cloud solutions and a
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-🌆 Daytime                102 commits         ███████████░░░░░░░░░░░░░░   43.78 % 
-🌃 Evening                116 commits         ████████████░░░░░░░░░░░░░   49.79 % 
+🌞 Morning                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+🌆 Daytime                108 commits         ██████████░░░░░░░░░░░░░░░   41.38 % 
+🌃 Evening                131 commits         █████████████░░░░░░░░░░░░   50.19 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Tuesday                  96 commits          ██████████░░░░░░░░░░░░░░░   41.20 % 
-Wednesday                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Thursday                 51 commits          █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Friday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Tuesday                  96 commits          █████████░░░░░░░░░░░░░░░░   36.78 % 
+Wednesday                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Thursday                 65 commits          ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Saturday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 
 
@@ -215,7 +215,7 @@ HCL                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/riyanimam/riyanimam/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2026 20:22:57 UTC
+ Last Updated on 04/02/2026 01:55:50 UTC
 <!--END_SECTION:waka-->
 
 ---
