@@ -36,7 +36,7 @@
 
 ## 🚀 About Me
 
-AWS & Backend Developer passionate about building scalable cloud solutions and automation tools. I specialize in **serverless architecture**, **infrastructure-as-code**, and **event-driven systems**. 
+AWS & Backend Developer passionate about building scalable cloud solutions and automation tools. I specialize in **serverless architecture**, **infrastructure-as-code**, and **event-driven systems**.
 
 With deep expertise in **AWS services** (Lambda, DynamoDB, EventBridge, Step Functions, API Gateway, S3, CloudFormation), I architect and deploy production-grade applications that scale automatically and cost-effectively. My polyglot approach with **Python**, **Go**, and **TypeScript** enables me to choose the right tool for each challenge—whether it's high-performance Lambda functions, data processing pipelines, or modern web applications.
 
@@ -225,7 +225,7 @@ I believe in **automation-first development**, comprehensive documentation, and 
 
 🔧 Tech: Python • AWS Lambda • CloudWatch • EventBridge • Terraform
 
-⭐ Features: 
+⭐ Features:
 - Real-time cost anomaly detection
 - Automated resource rightsizing recommendations
 - Idle resource identification and cleanup
@@ -258,75 +258,72 @@ I believe in **automation-first development**, comprehensive documentation, and 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-540.62%20thousand%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 4.6 kB Used in GitHub's Storage 
- > 
+> 📦 4.6 kB Used in GitHub's Storage
+ >
 > 🏆 201 Contributions in the Year 2026
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 14 Public Repositories
+ >
+> 🔑 4 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-🌆 Daytime                108 commits         ██████████░░░░░░░░░░░░░░░   41.38 % 
-🌃 Evening                131 commits         █████████████░░░░░░░░░░░░   50.19 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+🌆 Daytime                108 commits         ██████████░░░░░░░░░░░░░░░   41.38 %
+🌃 Evening                131 commits         █████████████░░░░░░░░░░░░   50.19 %
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Tuesday                  96 commits          █████████░░░░░░░░░░░░░░░░   36.78 % 
-Wednesday                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Thursday                 65 commits          ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Saturday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Tuesday                  96 commits          █████████░░░░░░░░░░░░░░░░   36.78 %
+Wednesday                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+Thursday                 65 commits          ██████░░░░░░░░░░░░░░░░░░░   24.90 %
+Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Saturday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/New_York
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in Go**
 
 ```text
-Go                       3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-PowerShell               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HCL                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Go                       3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 %
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+PowerShell               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+HCL                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/riyanimam/riyanimam/main/assets/bar_graph.png)
 
-
- Last Updated on 04/02/2026 01:55:50 UTC
+Last Updated on 04/02/2026 01:55:50 UTC
 <!--END_SECTION:waka-->
 
 ---
