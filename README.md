@@ -134,12 +134,12 @@ I believe in **automation-first development**, comprehensive documentation, and 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" height="180" />
-  <img src="./profile/streak-stats.svg" alt="GitHub streak" height="180" />
+  <img src="./profile/stats.svg" alt="GitHub stats" height="200" />
+  <img src="./profile/top-langs.svg" alt="Top languages" height="200" />
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top languages" height="180" />
+  <img src="./profile/streak-stats.svg" alt="GitHub streak" height="200" />
 </p>
 
 <div align="center">
