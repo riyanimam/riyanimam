@@ -166,10 +166,12 @@ I believe in **automation-first development**, comprehensive documentation, and 
 <div align="center">
 
 **🎓 Certifications**
+
 - ☁️ AWS Certified Cloud Practitioner
 - 🏗️ HashiCorp Certified: Terraform Associate
 
 **📚 Continuous Learning**
+
 - Advanced Serverless Patterns
 - Distributed Systems Design
 - Cloud Cost Optimization
@@ -335,6 +337,7 @@ Last Updated on 04/02/2026 01:55:50 UTC
 ### 💼 Open to Opportunities
 
 **🎯 What I'm Looking For:**
+
 - ☁️ Cloud Architecture & AWS Development Projects
 - 🤖 Automation & DevOps Engineering Roles
 - 🚀 Serverless & Event-Driven System Design
@@ -387,6 +390,7 @@ Last Updated on 04/02/2026 01:55:50 UTC
 > *"Building scalable solutions that solve real problems, one Lambda function at a time."*
 
 **I'm passionate about:**
+
 - 🤝 Collaborating on cloud-native projects
 - 🛠️ Contributing to open-source initiatives
 - 📖 Sharing knowledge through documentation and mentoring
