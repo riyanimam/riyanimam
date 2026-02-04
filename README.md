@@ -133,24 +133,21 @@ I believe in **automation-first development**, comprehensive documentation, and 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<img src="./profile/stats.svg" alt="GitHub stats" />
-</div>
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub stats" height="200" />
+  <img src="./profile/top-langs.svg" alt="Top languages" height="200" />
+</p>
+
+<p align="center">
+  <img src="./profile/streak-stats.svg" alt="GitHub streak" height="200" />
+</p>
 
 <div align="center">
-<img src="./profile/streak-stats.svg" alt="GitHub streak" />
-</div>
 
-<div align="center">
-<img src="./profile/top-langs.svg" alt="Top languages" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyanimam&theme=tokyo-night&hide_border=true&radius=16" alt="Contribution graph" />
-</div>
 
-<div align="center">
 <img src="./profile/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
 
 ---
@@ -163,28 +160,31 @@ I believe in **automation-first development**, comprehensive documentation, and 
 
 ### 📜 Certifications & Learning
 
-<div align="center">
-
 **🎓 Certifications**
+
 - ☁️ AWS Certified Cloud Practitioner
 - 🏗️ HashiCorp Certified: Terraform Associate
 
 **📚 Continuous Learning**
+
 - Advanced Serverless Patterns
 - Distributed Systems Design
 - Cloud Cost Optimization
 - Data Engineering Best Practices
 
-</div>
+---
 
 ---
 
 ## 📌 Featured Projects
 
+### 🏛️ Georgia Legislation Webcrawler
+
 <div align="center">
 
-### 🏛️ Georgia Legislation Webcrawler
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=georgia-legislation-webcrawler&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/georgia-legislation-webcrawler)
+[![Georgia Legislation Webcrawler](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=georgia-legislation-webcrawler&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/georgia-legislation-webcrawler)
+
+</div>
 
 **Real-time legislative tracking with AI-powered insights**
 
@@ -195,7 +195,12 @@ I believe in **automation-first development**, comprehensive documentation, and 
 ---
 
 ### 🔔 Signal Bot Playground
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=signal-bot-playground&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/signal-bot-playground)
+
+<div align="center">
+
+[![Signal Bot Playground](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=signal-bot-playground&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/signal-bot-playground)
+
+</div>
 
 **Messaging automation sandbox for Signal platform**
 
@@ -206,7 +211,12 @@ I believe in **automation-first development**, comprehensive documentation, and 
 ---
 
 ### 💼 Personal Portfolio Website
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=personal-site&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/personal-site)
+
+<div align="center">
+
+[![Personal Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=personal-site&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/personal-site)
+
+</div>
 
 **Modern portfolio showcasing AWS & Backend expertise**
 
@@ -219,6 +229,7 @@ I believe in **automation-first development**, comprehensive documentation, and 
 ---
 
 ### 💰 AWS Cost Optimizer Lambda
+
 *In Development*
 
 **Automated AWS cost optimization using serverless architecture**
@@ -226,6 +237,7 @@ I believe in **automation-first development**, comprehensive documentation, and 
 🔧 Tech: Python • AWS Lambda • CloudWatch • EventBridge • Terraform
 
 ⭐ Features:
+
 - Real-time cost anomaly detection
 - Automated resource rightsizing recommendations
 - Idle resource identification and cleanup
@@ -234,8 +246,6 @@ I believe in **automation-first development**, comprehensive documentation, and 
 - Custom optimization rules engine
 
 💡 *Designed to reduce AWS bills by 20-40% through intelligent automation*
-
-</div>
 
 ---
 
@@ -330,11 +340,10 @@ Last Updated on 04/02/2026 01:55:50 UTC
 
 ## 🤝 Work With Me
 
-<div align="center">
-
 ### 💼 Open to Opportunities
 
 **🎯 What I'm Looking For:**
+
 - ☁️ Cloud Architecture & AWS Development Projects
 - 🤖 Automation & DevOps Engineering Roles
 - 🚀 Serverless & Event-Driven System Design
@@ -344,6 +353,8 @@ Last Updated on 04/02/2026 01:55:50 UTC
 **📅 Availability:** Open to freelance projects and full-time opportunities
 
 **🌍 Location:** Remote-friendly • EST Timezone
+
+<div align="center">
 
 <a href="https://riyanimam.github.io/personal-site/">
 <img src="https://img.shields.io/badge/🌐_View_Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
@@ -380,17 +391,18 @@ Last Updated on 04/02/2026 01:55:50 UTC
 
 ## 💬 Let's Connect & Collaborate
 
-<div align="center">
-
 ### 🌟 Why Work Together?
 
 > *"Building scalable solutions that solve real problems, one Lambda function at a time."*
 
 **I'm passionate about:**
+
 - 🤝 Collaborating on cloud-native projects
 - 🛠️ Contributing to open-source initiatives
 - 📖 Sharing knowledge through documentation and mentoring
 - 🚀 Building automation tools that empower developers
+
+<div align="center">
 
 ### 📬 Get In Touch
 
