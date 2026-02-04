@@ -182,7 +182,7 @@ I believe in **automation-first development**, comprehensive documentation, and 
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=georgia-legislation-webcrawler&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/georgia-legislation-webcrawler)
+[![Georgia Legislation Webcrawler](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=georgia-legislation-webcrawler&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/georgia-legislation-webcrawler)
 
 </div>
 
@@ -198,7 +198,7 @@ I believe in **automation-first development**, comprehensive documentation, and 
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=signal-bot-playground&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/signal-bot-playground)
+[![Signal Bot Playground](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=signal-bot-playground&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/signal-bot-playground)
 
 </div>
 
@@ -214,7 +214,7 @@ I believe in **automation-first development**, comprehensive documentation, and 
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=personal-site&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/personal-site)
+[![Personal Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=riyanimam&repo=personal-site&theme=tokyonight&hide_border=true)](https://github.com/riyanimam/personal-site)
 
 </div>
 
