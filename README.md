@@ -332,8 +332,6 @@ Last Updated on 04/02/2026 01:55:50 UTC
 
 ## 🤝 Work With Me
 
-<div align="center">
-
 ### 💼 Open to Opportunities
 
 **🎯 What I'm Looking For:**
@@ -347,6 +345,8 @@ Last Updated on 04/02/2026 01:55:50 UTC
 **📅 Availability:** Open to freelance projects and full-time opportunities
 
 **🌍 Location:** Remote-friendly • EST Timezone
+
+<div align="center">
 
 <a href="https://riyanimam.github.io/personal-site/">
 <img src="https://img.shields.io/badge/🌐_View_Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
