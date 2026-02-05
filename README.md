@@ -262,78 +262,84 @@ I believe in **automation-first development**, comprehensive documentation, and 
 > **Note:** WakaTime integration is available but currently not configured. To enable automatic coding stats, set up WakaTime with your GitHub Actions workflow.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-540.62%20thousand%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 4.6 kB Used in GitHub's Storage
- >
-> 🏆 201 Contributions in the Year 2026
- >
+> 📦 4.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 209 Contributions in the Year 2026
+ > 
 > 💼 Opted to Hire
- >
-> 📜 14 Public Repositories
- >
-> 🔑 4 Private Repositories
- >
-**I'm a Night 🦉**
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-🌆 Daytime                108 commits         ██████████░░░░░░░░░░░░░░░   41.38 %
-🌃 Evening                131 commits         █████████████░░░░░░░░░░░░   50.19 %
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+🌞 Morning                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+🌆 Daytime                108 commits         ██████████░░░░░░░░░░░░░░░   40.60 % 
+🌃 Evening                134 commits         █████████████░░░░░░░░░░░░   50.38 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-
-📅 **I'm Most Productive on Tuesday**
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Tuesday                  96 commits          █████████░░░░░░░░░░░░░░░░   36.78 %
-Wednesday                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Thursday                 65 commits          ██████░░░░░░░░░░░░░░░░░░░   24.90 %
-Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-Saturday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Tuesday                  97 commits          █████████░░░░░░░░░░░░░░░░   36.47 % 
+Wednesday                26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Thursday                 65 commits          ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Saturday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: America/New_York
 
-💬 Programming Languages:
-No Activity Tracked This Week
+💬 Programming Languages: 
+JSON                     37 mins             ███████████░░░░░░░░░░░░░░   44.28 % 
+YAML                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Python                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
-🔥 Editors:
-No Activity Tracked This Week
+🔥 Editors: 
+VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
 
-🐱‍💻 Projects:
-No Activity Tracked This Week
+🐱‍💻 Projects: 
+georgia-legislation-webcr1 hr 16 mins        ███████████████████████░░   90.23 % 
+riyanimam                8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 
-💻 Operating System:
-No Activity Tracked This Week
+💻 Operating System: 
+Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Go**
+**I Mostly Code in Go** 
 
 ```text
-Go                       3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 %
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-PowerShell               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-HCL                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Go                       3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+PowerShell               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HCL                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
+
+
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/riyanimam/riyanimam/main/assets/bar_graph.png)
 
-Last Updated on 04/02/2026 01:55:50 UTC
+
+ Last Updated on 05/02/2026 01:57:29 UTC
 <!--END_SECTION:waka-->
 
 ---
