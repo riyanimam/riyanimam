@@ -1,3 +1,15 @@
+## ❤️ A Special Thank You
+
+Special thank you to a few people who have guided me in my career—keeping this anonymous just in case. You know who you are.
+
+Thank you to **KD** for introducing me to the world of IT, for being my first true mentor in both the profession and in life, and for helping me see how things really work before I got pulled in blindly. Thank you for pushing me to pursue software engineering, even when I doubted I could do it.
+
+Thank you to **DC** and **MP**. I may never be able to fully express how deeply indebted I am to you both for my growth and career. From teaching me code and Git when I was just starting out, to equipping me with the mindset and tools that set me apart—you gave me a foundation I’ll carry forever. Everything I’ve built, and everything I will build, stands on what you helped me create.
+
+Last but not least, thank you to **ZI**. My path into technology would be nothing without you. I hope I’m making you prouder than ever—and that you’re up there being as loud as always.
+
+---
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="80" alt="Waving hand" />
 <h1>Hey, I'm Riyan! ✨</h1>
