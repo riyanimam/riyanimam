@@ -274,17 +274,17 @@ I believe in **automation-first development**, comprehensive documentation, and 
 > **Note:** WakaTime integration is available but currently not configured. To enable automatic coding stats, set up WakaTime with your GitHub Actions workflow.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-584.24%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-569.86%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 14.3 kB Used in GitHub's Storage 
  > 
-> 🏆 257 Contributions in the Year 2026
+> 🏆 258 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -295,21 +295,21 @@ I believe in **automation-first development**, comprehensive documentation, and 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-🌆 Daytime                112 commits         ██████████░░░░░░░░░░░░░░░   39.58 % 
-🌃 Evening                137 commits         ████████████░░░░░░░░░░░░░   48.41 % 
-🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+🌞 Morning                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+🌆 Daytime                111 commits         ██████████░░░░░░░░░░░░░░░   39.64 % 
+🌃 Evening                135 commits         ████████████░░░░░░░░░░░░░   48.21 % 
+🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Tuesday                  97 commits          █████████░░░░░░░░░░░░░░░░   34.28 % 
-Wednesday                25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Thursday                 76 commits          ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-Friday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Saturday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Tuesday                  97 commits          █████████░░░░░░░░░░░░░░░░   34.64 % 
+Wednesday                25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Thursday                 76 commits          ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+Friday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Saturday                 31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 
 
@@ -319,19 +319,21 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-CSS                      2 mins              ██████████████████████░░░   88.25 % 
-YAML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+TypeScript               39 mins             █████████░░░░░░░░░░░░░░░░   36.81 % 
+Go                       22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+SCSS                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-recharge-marta           2 mins              ██████████████████████░░░   88.25 % 
-documentation            0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+recharge-marta           1 hr 30 mins        █████████████████████░░░░   83.76 % 
+documentation            17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -351,7 +353,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/riyanimam/riyanimam/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2026 02:05:50 UTC
+ Last Updated on 16/02/2026 02:01:47 UTC
 <!--END_SECTION:waka-->
 
 ---
