@@ -276,13 +276,13 @@ I believe in **automation-first development**, comprehensive documentation, and 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2046%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-569.86%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 14.3 kB Used in GitHub's Storage 
+> 📦 14.4 kB Used in GitHub's Storage 
  > 
 > 🏆 258 Contributions in the Year 2026
  > 
@@ -319,21 +319,21 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               39 mins             █████████░░░░░░░░░░░░░░░░   36.81 % 
-Go                       22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-SCSS                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Markdown                 47 mins             █████████░░░░░░░░░░░░░░░░   34.04 % 
+TypeScript               39 mins             ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+Go                       22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+SCSS                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-recharge-marta           1 hr 30 mins        █████████████████████░░░░   83.76 % 
-documentation            17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+recharge-marta           1 hr 30 mins        ████████████████░░░░░░░░░   64.95 % 
+documentation            48 mins             █████████░░░░░░░░░░░░░░░░   35.05 % 
 
 💻 Operating System: 
-Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -353,7 +353,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/riyanimam/riyanimam/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2026 02:01:47 UTC
+ Last Updated on 17/02/2026 01:59:19 UTC
 <!--END_SECTION:waka-->
 
 ---
