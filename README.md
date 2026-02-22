@@ -319,21 +319,21 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 47 mins             █████████░░░░░░░░░░░░░░░░   34.04 % 
-TypeScript               39 mins             ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Go                       22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-SCSS                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Markdown                 48 mins             █████████░░░░░░░░░░░░░░░░   35.26 % 
+TypeScript               39 mins             ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+Go                       22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+SCSS                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-recharge-marta           1 hr 30 mins        ████████████████░░░░░░░░░   64.95 % 
-documentation            48 mins             █████████░░░░░░░░░░░░░░░░   35.05 % 
+recharge-marta           1 hr 28 mins        ████████████████░░░░░░░░░   63.91 % 
+documentation            49 mins             █████████░░░░░░░░░░░░░░░░   36.09 % 
 
 💻 Operating System: 
-Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -353,7 +353,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/riyanimam/riyanimam/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2026 01:52:28 UTC
+ Last Updated on 22/02/2026 02:01:20 UTC
 <!--END_SECTION:waka-->
 
 ---
