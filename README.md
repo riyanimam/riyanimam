@@ -319,16 +319,19 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 mins              █████████████████░░░░░░░░   69.33 % 
+HTML                     1 min               ████████░░░░░░░░░░░░░░░░░   30.66 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Downloads                3 mins              █████████████████░░░░░░░░   69.34 % 
+personal-site            1 min               ████████░░░░░░░░░░░░░░░░░   30.66 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -348,7 +351,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/riyanimam/riyanimam/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2026 00:38:00 UTC
+ Last Updated on 28/04/2026 00:40:46 UTC
 <!--END_SECTION:waka-->
 
 ---
