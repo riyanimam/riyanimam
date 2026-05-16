@@ -274,6 +274,8 @@ I believe in **automation-first development**, comprehensive documentation, and 
 > **Note:** WakaTime integration is available but currently not configured. To enable automatic coding stats, set up WakaTime with your GitHub Actions workflow.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2050%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-569.87%20thousand%20lines%20of%20code-blue?style=flat)
@@ -290,6 +292,45 @@ I believe in **automation-first development**, comprehensive documentation, and 
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+🌆 Daytime                124 commits         ██████████░░░░░░░░░░░░░░░   40.66 % 
+🌃 Evening                140 commits         ███████████░░░░░░░░░░░░░░   45.90 % 
+🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Tuesday                  116 commits         ██████████░░░░░░░░░░░░░░░   38.03 % 
+Wednesday                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Thursday                 76 commits          ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+Friday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Saturday                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Sunday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -307,7 +348,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/riyanimam/riyanimam/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 00:43:50 UTC
+ Last Updated on 16/05/2026 00:41:02 UTC
 <!--END_SECTION:waka-->
 
 ---
